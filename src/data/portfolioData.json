@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0",
+  "profile_type": "personal_ai_knowledge_base",
+  "owner": {
+    "preferred_name": "Rohan",
+    "full_name": "Rohan Bhardwaj",
+    "occupation": "Computer Engineering Student & Web Developer",
+    "country": "India",
+    "city": "Ganaur",
+    "date_of_birth": "2004-10-22",
+    "institution": "Delhi Skill and Entrepreneurship University (DSEU)",
+    "email": "rohanbh838@email.com",
+    "github": "https://github.com/Rohan616",
+    "linkedin": "https://www.linkedin.com/in/rohan-bhardwaj-a56689276",
+    "instagram": "https://www.instagram.com/rohan616__",
+    "languages": ["English", "Hindi"],
+    "timezone": "Asia/Kolkata"
+  },
+  "education": {
+    "current_status": "Computer Engineering Student",
+    "institution": "Delhi Skill and Entrepreneurship University (DSEU)",
+    "academic_interests": ["Computer Science", "Programming", "Web Development", "Interactive UI Design", "Generative AI Integrations"]
+  },
+  "skills": {
+    "frontend": ["HTML/CSS", "JavaScript", "React", "Tailwind CSS", "UI/UX Design", "Three.js & WebGL"],
+    "backend": ["Node.js", "Python", "REST APIs", "Express"],
+    "ai_and_tools": ["Generative AI", "Gemini API", "Git", "VS Code", "Responsive Design"]
+  },
+  "projects": [
+    {
+      "title": "Batman: Arkham Detective Mode",
+      "tagline": "Interactive Arkham-inspired game UI with dynamic detective scanner",
+      "description": "An Arkham games-inspired interactive webpage featuring real-time detective mode visual filters, sound cues, and gothic Gotham UI.",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Audio API"]
+    },
+    {
+      "title": "Hulk Unleashed",
+      "tagline": "High-impact visual showcase with kinetic gamma effects",
+      "description": "A visually stunning superhero interactive experience showcasing kinetic smashing physics, gamma particle effects, and dynamic responsiveness.",
+      "technologies": ["HTML5", "CSS Animations", "JavaScript", "Canvas"]
+    },
+    {
+      "title": "Event Horizon: 3D Black Hole Portfolio",
+      "tagline": "Relativistic WebGL 3D black hole & hyperspace scrollytelling engine",
+      "description": "A high-performance portfolio featuring an authentic Interstellar Gargantua raymarched black hole, Lenis momentum smooth scrolling, and radial laser speed streaks.",
+      "technologies": ["React 19", "Three.js", "GLSL Shaders", "Tailwind CSS", "Lenis"]
+    },
+    {
+      "title": "Hero Forge UI",
+      "tagline": "Modern high-impact landing page design exploration",
+      "description": "An exploration of futuristic landing page layouts, bold typography hierarchies, glassmorphism cards, and interactive hover mechanics.",
+      "technologies": ["HTML5", "Modern CSS", "JavaScript"]
+    }
+  ],
+  "interests": {
+    "anime": true,
+    "anime_details": "Passionate about epic anime training arcs, shonen power systems, and strategic battle analyses.",
+    "movies": ["The Lord of the Rings", "Harry Potter", "Marvel movies (MCU)"],
+    "tv_series": ["Game of Thrones", "Stranger Things", "Breaking Bad"],
+    "general_interests": ["Fantasy worlds", "Epic storytelling", "Technology", "Programming", "Sci-Fi & Cosmic Physics"]
+  },
+  "faq_about_rohan": [
+    {
+      "question": "Who is Rohan?",
+      "answer": "Rohan Bhardwaj is a Computer Engineering student at Delhi Skill and Entrepreneurship University (DSEU) building at the intersection of design, code, and generative AI."
+    },
+    {
+      "question": "What are Rohan's technical skills?",
+      "answer": "Rohan specializes in HTML/CSS, JavaScript, React, Node.js, Python, UI/UX design, and generative AI integrations."
+    },
+    {
+      "question": "What projects has Rohan created?",
+      "answer": "Rohan has created the Batman Arkham Detective Mode experience, the Hulk Unleashed showcase, this 3D Event Horizon black hole portfolio, and various creative web prototypes."
+    },
+    {
+      "question": "What are Rohan's favorite movies and TV shows?",
+      "answer": "He loves The Lord of the Rings, Harry Potter, and the MCU, along with TV series like Game of Thrones, Stranger Things, and Breaking Bad."
+    },
+    {
+      "question": "How can I contact Rohan?",
+      "answer": "You can reach Rohan via email at rohanbh838@email.com, or connect on GitHub (@Rohan616), LinkedIn, and Instagram (@rohan616__)."
+    }
+  ],
+  "chatbot_personality": {
+    "name": "Rohan's Digital Twin",
+    "core_vibe": "Fun, witty, intelligent, friendly, conversational, and occasionally dramatic",
+    "humor_style": [
+      "Light sarcasm",
+      "Clever jokes",
+      "Playful teasing",
+      "Internet humor when appropriate"
+    ]
+  }
+}
